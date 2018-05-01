@@ -1,0 +1,11 @@
+---
+slug: :debug_tool
+depends:
+  mikutter: 3.6.7
+  plugin:
+  - gtk
+version: '1.0'
+author: toshi_a
+name: Debug tool
+description: >-
+  デバッグに有用な機能をmikutterに追加します
